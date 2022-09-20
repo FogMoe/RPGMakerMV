@@ -1,4 +1,11 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.5,"scrollY":334}
+{"id":1,"expanded":true,"name":"开始地图","order":7,"parentId":6,"scrollX":1228.5,"scrollY":684},
+{"id":2,"expanded":true,"name":"开始绮礼剧情","order":8,"parentId":6,"scrollX":1228.5,"scrollY":684},
+{"id":3,"expanded":true,"name":"城郊","order":5,"parentId":6,"scrollX":819,"scrollY":456},
+{"id":4,"expanded":true,"name":"就馆内","order":6,"parentId":3,"scrollX":819,"scrollY":456},
+{"id":5,"expanded":true,"name":"城里","order":2,"parentId":6,"scrollX":893.4545454545455,"scrollY":497.4545454545455},
+{"id":6,"expanded":true,"name":"大地图","order":1,"parentId":0,"scrollX":1035.2727272727273,"scrollY":684},
+{"id":7,"expanded":true,"name":"旅店","order":3,"parentId":5,"scrollX":893.4545454545455,"scrollY":497.4545454545455},
+{"id":8,"expanded":false,"name":"旅馆 1F","order":4,"parentId":7,"scrollX":832,"scrollY":640}
 ]
